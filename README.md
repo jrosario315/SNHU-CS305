@@ -20,10 +20,10 @@ To increase the layers of security, I implemented an ecnryption algorithm to the
 
 I made certain that the code was functional and secure firstly by simply running it and makingg sure that it behaved how I expected it to behave. I then implemented the use of the HTTPS protocol to create a secure communication line and security certificates along with that. I used the dependency check reports to monitor for any new vulnerabilities that may have been introduced after the refactored code.
 
-What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+### What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 
 The implementation of the cipher algorithms is one of the main takeaways that I had from this assignment, as it challenged me to look through different resources to understand the information that I needed. Becoming more familiar with the Maven framework and the dependency checks were also a useful tool that I will implement in future programs.
 
-Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+### Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
 I might show them the refactored code and the implementation of the cipher algorithms to demonstrate my knowledge in that area.
